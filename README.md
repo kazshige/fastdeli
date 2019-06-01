@@ -7,15 +7,15 @@ FastDeli is a react-native application for online food purchase and delivery ser
 
 #### Food Preview
 
-- Users are able to preview foods from different restaurants nearby the their location
-- Users are able to like foods which they want to recommend
-- Users are able to see the prices of foods from different restaurants
+- To preview foods from different restaurants nearby the their location
+- To like foods which they want to recommend
+- To see the prices of foods from different restaurants
 
 #### Order Placement
 
-- Users are able to add food items to cart
-- Users are able to order foods for delivery
-- Users are able to remove food items from the cart
+- To add food items to cart
+- To order foods for delivery
+- To remove food items from the cart
 
 
 ## Technologies and Services
