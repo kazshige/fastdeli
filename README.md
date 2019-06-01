@@ -36,8 +36,8 @@ FastDeli is a react-native application for online food purchase and delivery ser
 ## Installation
 
 - Install NodeJs on your machine
-- Clone the repository $ git clone https://github.com/kazshige/mvp-app
-- Change into the directory $ cd /mvp-app
+- Clone the repository $ git clone https://github.com/kazshige/fastdeli.git
+- Change into the directory $ cd /fastdeli
 - Install all required dependencies with $ npm install
 
 ## Usage
